@@ -3,11 +3,11 @@
 
 ## Usefull git commands
 
-'git add'
+`git add`
 
-'git commit -m "meaningful message"'
+`git commit -m "meaningful message"`
 
-'git push'
+`git push`
 
-'git pull'
+`git pull`
 
